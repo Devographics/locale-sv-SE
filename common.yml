@@ -53,10 +53,10 @@ translations:
       t: 'Undersökningar tillgängliga på:'
     - key: general.help_us_translate
       t: Hjälp oss översätta undersökningar »
-    - key: general.translators # TODO
-      t: Translators
-    - key: general.translation_help # TODO
-      t: Translation Help
+    - key: general.translators
+      t: Översättare
+    - key: general.translation_help
+      t: Översättningshjälp
 
     # footer
     - key: general.privacy_policy
@@ -86,21 +86,21 @@ translations:
 
           Hjälp oss gärna dela denna undersökning till flera. Varje bit räknas, och det kommer göra vår data ännu
           mer representativ:
-    - key: thanks.learn_more_about # TODO
-      t: 'Some of the features you might want to learn more about:'
-    - key: thanks.knowledge_score # TODO
-      t: Knowledge Score
-    - key: thanks.score_explanation # TODO
+    - key: thanks.learn_more_about
+      t: 'Några features du kanske vill lära dig mer om:'
+    - key: thanks.knowledge_score
+      t: Kunskapspoäng
+    - key: thanks.score_explanation
       t: >
-          You’ve heard or used <span class="score-number score-number-known">{known}</span> out of
-          <span class="score-number score-number-total">{total}</span> features mentioned in the survey, which
-          puts you in the top <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
-          of all respondents.
-    - key: thanks.share_on_twitter # TODO
-      t: Share on Twitter
-    - key: thanks.share_score_message # TODO
+          Du har hört talas om eller använt <span class="score-number score-number-known">{known}</span> av
+          <span class="score-number score-number-total">{total}</span> features som nämnts i undersökningen,
+          vilket placerar dig bland topp <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span>
+          av alla svarande.
+    - key: thanks.share_on_twitter
+      t: Dela på Twitter
+    - key: thanks.share_score_message
       t: >
-          I got a {score}% knowledge score on this year's #{hashtag} survey! Take the survey here: {shareUrl}
+          Jag fick {score}% kunskapspoäng på detta års #{hashtag}-undersökning! Genomför undersökningen här: {shareUrl}
     # share
     - key: general.share_subject
       t: >
@@ -110,8 +110,8 @@ translations:
           Detta års {surveyName}-undersökning är nu öppen! {link}
 
     # forms
-    - key: forms.select_option # TODO
-      t: Select option
+    - key: forms.select_option
+      t: Välj alternativ
 
     ###########################################################################
     # Nav
@@ -426,45 +426,45 @@ translations:
 
     # Race & Ethnicity
 
-    - key: options.race_ethnicity.white_european # TODO
-      t: White or of European descent
-    - key: options.race_ethnicity.south_asian # TODO
-      t: South Asian
-    - key: options.race_ethnicity.hispanic_latin # TODO
-      t: Hispanic or Latino/Latina
-    - key: options.race_ethnicity.east_asian # TODO
-      t: East Asian
-    - key: options.race_ethnicity.middle_eastern # TODO
-      t: Middle Eastern
-    - key: options.race_ethnicity.black_african # TODO
-      t: Black or of African descent
-    - key: options.race_ethnicity.multiracial # TODO
-      t: Multiracial
-    - key: options.race_ethnicity.biracial # TODO
-      t: Biracial
-    - key: options.race_ethnicity.native_american_islander_australian # TODO
-      t: Native American, Pacific Islander, or Indigenous Australian
+    - key: options.race_ethnicity.white_european
+      t: Vit eller av europeisk härkomst
+    - key: options.race_ethnicity.south_asian
+      t: Sydasiatisk
+    - key: options.race_ethnicity.hispanic_latin
+      t: Latinamerikan
+    - key: options.race_ethnicity.east_asian
+      t: Östasiatisk
+    - key: options.race_ethnicity.middle_eastern
+      t: Mellanöstern
+    - key: options.race_ethnicity.black_african
+      t: Svart eller av afrikansk härkomst
+    - key: options.race_ethnicity.multiracial
+      t: Multietnisk
+    - key: options.race_ethnicity.biracial
+      t: Blandat etniskt ursprung
+    - key: options.race_ethnicity.native_american_islander_australian
+      t: Urpsrungsamerikan, Stillahavsöbo, eller Australiensisk urinvånare
 
     # Form Factors
-    - key: options.form_factors.desktop # TODO
+    - key: options.form_factors.desktop
       t: Desktop
-    - key: options.form_factors.smartphone # TODO
+    - key: options.form_factors.smartphone
       t: Smartphone
-    - key: options.form_factors.feature_phone # TODO
-      t: Feature phone
-    - key: options.form_factors.tablet # TODO
-      t: Tablet
-    - key: options.form_factors.smart_watch # TODO
-      t: Smartwatch
-    - key: options.form_factors.tv # TODO
+    - key: options.form_factors.feature_phone
+      t: Featurephone
+    - key: options.form_factors.tablet
+      t: Surfplatta
+    - key: options.form_factors.smart_watch
+      t: Smartklocka
+    - key: options.form_factors.tv
       t: TV
-    - key: options.form_factors.gaming_console # TODO
-      t: Gaming console
-    - key: options.form_factors.screen_reader # TODO
-      t: Screen reader
-    - key: options.form_factors.print # TODO
+    - key: options.form_factors.gaming_console
+      t: Spelkonsol
+    - key: options.form_factors.screen_reader
+      t: Skärmläsare
+    - key: options.form_factors.print
       t: Print
-      
+
     ###########################################################################
     # Tools
     ###########################################################################
@@ -534,7 +534,7 @@ translations:
 
     # skin tone/appearance
     - key: user_info.race_ethnicity
-      t: Race & Ethnicity # TODO
+      t: Ursprung & Etnicitet
 
     # other info
     - key: user_info.how_did_user_find_out_about_the_survey

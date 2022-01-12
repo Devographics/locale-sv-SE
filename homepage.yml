@@ -4,49 +4,49 @@ translations:
     # Homepage
     ###########################################################################
 
-    - key: homepage.hand_coded # TODO
-      t: Hand-coded in Japan.
-    - key: homepage.leave_issue # TODO
-      t: Leave an issue
-    - key: homepage.get_in_touch # TODO
-      t: Get in touch
+    - key: homepage.hand_coded
+      t: Hand-kodad i Japan.
+    - key: homepage.leave_issue
+      t: Lämna ett problem
+    - key: homepage.get_in_touch
+      t: Hör av dig
 
-    - key: homepage.made_by # TODO
-      t: 'The State of CSS is Made by:'
-    - key: homepage.leave_issue # TODO
-      t: Leave an issue
+    - key: homepage.made_by
+      t: 'The State of CSS är skapad av:'
+    - key: homepage.leave_issue
+      t: Lämna ett problem
 
-    - key: homepage.previous_years # TODO
-      t: 'Previous Years:'
-    - key: homepage.intro # TODO
+    - key: homepage.previous_years
+      t: 'Tidigare År:'
+    - key: homepage.intro
       t: >
-          ## CSS is evolving faster than ever.
+          ## CSS utvecklas nu snabbare än någonsin.
 
-          Flexbox, Grid, Multi-Column… To say nothing of whole new paradigms like CSS-in-JS.
+          Flexbox, Grid, Multi-Column… För att inte tala om helt nya paradigmer, såsom CSS-in-JS.
 
-          So after the success of our annual [State Of JavaScript](https://stateofjs.com) survey, we’ve decided to take on
-          the world of styles and selectors to help identify the latest trends… and try to bridge
-          the ever-growing “great front-end divide”!
+          Så efter succén av vår årliga undersökning [State Of JavaScript](https://stateofjs.com) har
+          vi beslutat att ta oss an världen av styles och selektorer för att identifiera de senaste trenderna…
+          i ett försök att brygga den ständigt växande “frontend-klyftan”!
 
-    - key: homepage.take_survey # TODO
-      t: Take Survey
+    - key: homepage.take_survey
+      t: Genomför Undersökning
 
-    - key: homepage.view_results # TODO
-      t: View 2019 Results
+    - key: homepage.view_results
+      t: Visa 2019 Års Resultat
 
-    - key: share.help_spread # TODO
-      t: Help Spread the Word!
+    - key: share.help_spread
+      t: Hjälp Oss Sprida Ordet!
 
-    - key: newsletter.stay_tuned # TODO
-      t: Stay Tuned
-    - key: newsletter.leave_your_email # TODO
-      t: Leave us your email and we’ll let you know when the next survey takes place.
+    - key: newsletter.stay_tuned
+      t: Håll Ögonen Öppna
+    - key: newsletter.leave_your_email
+      t: Lämna din e-mail så hör vi av oss när nästa undersökning äger rum.
 
-    - key: author.sacha.bio # TODO
+    - key: author.sacha.bio
       t: >
-          Creator of the [Nivo](http://nivo.rocks/) JavaScript data visualization library as well
-          as [Mozaik](http://mozaik.rocks/), a tool for building beautiful dashboards.
-    - key: author.raphael.bio # TODO
+          Skapare av JavaScript data visualization-biblioteket [Nivo](http://nivo.rocks/) samt
+          [Mozaik](http://mozaik.rocks/), ett verktyg för att bygga snygga dashboards.
+    - key: author.raphael.bio
       t: >
-          Creator of the [Sidebar](http://sidebar.io) daily newsletter and
-          [VulcanJS](http://vulcanjs.org), a React+GraphQL open-source framework.
+          Skapare av det dagliga nyhetsbrevet [Sidebar](http://sidebar.io) samt
+          [VulcanJS](http://vulcanjs.org), ett React+GraphQL open source-framework.
