@@ -44,7 +44,7 @@ translations:
     - key: general.preview_survey
       t: Förhandsgranska Undersökning »
     - key: general.finish_survey
-      t: Avsluta Undersökning »
+      t: Avsluta Undersökning
     - key: general.survey_closed
       t: Undersökningen är nu ständ.
     - key: general.survey_results
