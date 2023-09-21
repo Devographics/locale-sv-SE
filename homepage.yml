@@ -1,52 +1,50 @@
 locale: sv-SE
 translations:
-    ###########################################################################
-    # Homepage
-    ###########################################################################
+  ###########################################################################
+  # Homepage
+  ###########################################################################
 
-    - key: homepage.hand_coded
-      t: Hand-kodad i Japan.
-    - key: homepage.leave_issue
-      t: Lämna ett problem
-    - key: homepage.get_in_touch
-      t: Hör av dig
+  - key: homepage.hand_coded
+    t: Hand-kodad i Japan.
+  - key: homepage.leave_issue
+    t: Lämna ett problem
+  - key: homepage.get_in_touch
+    t: Hör av dig
 
-    - key: homepage.made_by
-      t: 'The State of CSS är skapad av:'
-    - key: homepage.leave_issue
-      t: Lämna ett problem
+  - key: homepage.made_by
+    t: "The State of CSS är skapad av:"
 
-    - key: homepage.previous_years
-      t: 'Tidigare År:'
-    - key: homepage.intro
-      t: >
-          ## CSS utvecklas nu snabbare än någonsin.
+  - key: homepage.previous_years
+    t: "Tidigare År:"
+  - key: homepage.intro
+    t: >
+      ## CSS utvecklas nu snabbare än någonsin.
 
-          Flexbox, Grid, Multi-Column… För att inte tala om helt nya paradigmer, såsom CSS-in-JS.
+      Flexbox, Grid, Multi-Column… För att inte tala om helt nya paradigmer, såsom CSS-in-JS.
 
-          Så efter succén av vår årliga undersökning [State Of JavaScript](https://stateofjs.com) har
-          vi beslutat att ta oss an världen av styles och selektorer för att identifiera de senaste trenderna…
-          i ett försök att brygga den ständigt växande “frontend-klyftan”!
+      Så efter succén av vår årliga undersökning [State Of JavaScript](https://stateofjs.com) har
+      vi beslutat att ta oss an världen av styles och selektorer för att identifiera de senaste trenderna…
+      i ett försök att brygga den ständigt växande “frontend-klyftan”!
 
-    - key: homepage.take_survey
-      t: Genomför Undersökning
+  - key: homepage.take_survey
+    t: Genomför Undersökning
 
-    - key: homepage.view_results
-      t: Visa 2019 Års Resultat
+  - key: homepage.view_results
+    t: Visa 2019 Års Resultat
 
-    - key: share.help_spread
-      t: Hjälp Oss Sprida Ordet!
+  - key: share.help_spread
+    t: Hjälp Oss Sprida Ordet!
 
-    - key: newsletter.stay_tuned
-      t: Håll Ögonen Öppna
-    - key: newsletter.leave_your_email
-      t: Lämna din e-mail så hör vi av oss när nästa undersökning äger rum.
+  - key: newsletter.stay_tuned
+    t: Håll Ögonen Öppna
+  - key: newsletter.leave_your_email
+    t: Lämna din e-mail så hör vi av oss när nästa undersökning äger rum.
 
-    - key: author.sacha.bio
-      t: >
-          Skapare av JavaScript data visualization-biblioteket [Nivo](http://nivo.rocks/) samt
-          [Mozaik](http://mozaik.rocks/), ett verktyg för att bygga snygga dashboards.
-    - key: author.raphael.bio
-      t: >
-          Skapare av det dagliga nyhetsbrevet [Sidebar](http://sidebar.io) samt
-          [VulcanJS](http://vulcanjs.org), ett React+GraphQL open source-framework.
+  - key: author.sacha.bio
+    t: >
+      Skapare av JavaScript data visualization-biblioteket [Nivo](http://nivo.rocks/) samt
+      [Mozaik](http://mozaik.rocks/), ett verktyg för att bygga snygga dashboards.
+  - key: author.raphael.bio
+    t: >
+      Skapare av det dagliga nyhetsbrevet [Sidebar](http://sidebar.io) samt
+      [VulcanJS](http://vulcanjs.org), ett React+GraphQL open source-framework.
