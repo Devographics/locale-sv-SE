@@ -600,7 +600,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: Bloggar & Magasin
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: Vilka bloggar/magasin/etc. läser du?
   - key: resources.blogs_news_magazines.others
     t: Andra bloggar & magasin
@@ -610,7 +610,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: Siter & Kurser
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: Vilka siter/kurser/etc. konsulterar du?
   - key: resources.sites_courses.others
     t: Andra siter & kurser
@@ -620,7 +620,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: Podcasts
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: Vilka programmingsrelaterade podcasts lyssnar du på?
   - key: resources.podcasts.others
     t: Andra podcasts
