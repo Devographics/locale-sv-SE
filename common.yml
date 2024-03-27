@@ -487,45 +487,45 @@ translations:
   # years of experience
   - key: user_info.years_of_experience
     t: Antal Års Erfarenhet
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: Hur länge du har jobbat med eller studerat detta ämne.
 
   # company size
   - key: user_info.company_size
     t: Företagsstorlek
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: Hur stort ditt företag är.
 
   # salary ranges
   - key: user_info.yearly_salary
     t: Årlig Inkomst
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: Ange i amerikanska dollar (USD).
 
   # job title
   - key: user_info.job_title
     t: Jobbtitel
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: Hur introducerar du dig själv för andra?
 
   # javascript proficiency
 
   - key: user_info.javascript_proficiency
     t: JavaScript-kunskaper
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: Hur skicklig är du på JavaScript?
 
   # css proficiency
 
   - key: user_info.css_proficiency
     t: CSS-kunskaper
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: Hur skicklig är du på CSS?
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: Backend-kunskaper
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: Hur skicklig är du på backend-utveckling?
 
   # gender
