@@ -550,7 +550,7 @@ translations:
 
   - key: tools_others.text_editors
     t: Text-Editors
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: Vilka text-editor(s) använder du regelbundet?
   - key: tools_others.text_editors.others
     t: Andra text-editors
@@ -559,7 +559,7 @@ translations:
 
   - key: tools_others.utilities
     t: Verktygsbibliotek
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: Vilka verktygsbibliotek använder du regelbundet?
   - key: tools_others.utilities.others
     t: Andra verktygsbibliotek
@@ -568,7 +568,7 @@ translations:
 
   - key: tools_others.browsers
     t: Webbläsare
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: Vilka webbläsare jobbar du i primärt under initial utveckling?
   - key: tools_others.browsers.others
     t: Övriga webbläsare
@@ -577,7 +577,7 @@ translations:
 
   - key: tools_others.build_tools
     t: Byggverktyg
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: Vilka byggverktyg använder du?
   - key: tools_others.build_tools.others
     t: Övriga byggverktyg
@@ -586,7 +586,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: Språk Utöver JavaScript
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: Vilka andra programmeringsspråk använder du?
   - key: tools_others.non_js_languages.others
     t: Andra språk
